@@ -1,4 +1,4 @@
-# Analysus
+# Analysis
 
 ## Overview
 This is a data-driven project focused on performance analysis using **Power BI**. This repository contains two separate projects:
